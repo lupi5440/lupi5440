@@ -31,10 +31,10 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Tecnologias que e manejado ⚒️</h2>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
@@ -42,16 +42,14 @@
 </div>
 
 <br/>
-<hr/>
 
+<hr/>
 <div align="center">
   <h2>🐍 Mis contribuciones 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lupi5440/lupi5440/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Estadistica ⚡</h2>
