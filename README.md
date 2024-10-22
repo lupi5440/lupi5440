@@ -53,7 +53,7 @@
 <hr/>
 
 <h2 align="center">⚡ Estadistica ⚡</h2>
-<br>
+<br><br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=lupi5440&theme=merko" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-ivory-sigma-57.vercel.app/api?username=lupi5440&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -62,5 +62,8 @@
 </div>
 
 <hr/>
-
 <br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hasta+luego!+👋;+hasta+la+proxima+mundo!;" />
+</h1>
