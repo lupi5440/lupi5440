@@ -33,7 +33,7 @@
 </div>
  <hr/>
  
-<h2 align="center">⚒️ Tecnologias que e manejado ⚒️</h2>
+<h2 align="center">⚒️ Tecnologias que he manejado ⚒️</h2>
 
 <br/>
 <div align="center">
