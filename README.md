@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Currently developing **Scalable Systems and Algorithmic Solutions** [cite: 1, 3]
+ 🔭 Currently developing **Scalable Systems and Algorithmic Solutions** 
  
- 🌱 Learning **Docker, AWS, and Cloud Infrastructure** [cite: 4, 5]
+ 🌱 Learning **Docker, AWS, and Cloud Infrastructure** 
 
- 💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** [cite: 1, 5]
+ 💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** 
 
  ⚡ Fun fact: **I love deep-diving into technology foundations and I'm a Chihuahua enthusiast 🐶** [cite: 2]
 
