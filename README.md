@@ -1,58 +1,58 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lupi5440.lupi5440" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+mundo!+👋;+Soy+Juan+Angel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Angel!;" />
 </h1>
 
-<h3 align="center">Desarrollador descubriendo el mundo</h3>
+<h3 align="center">Computer Systems Engineer | ESCOM - IPN</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Estoy actualmente trabajando en **trabajos escolares :c**
+ 🔭 Currently developing **Scalable Systems and Algorithmic Solutions** [cite: 1, 3]
  
- 🌱 Acutalmente ando aprendiendo **Docker, AWS**
+ 🌱 Learning **Docker, AWS, and Cloud Infrastructure** [cite: 4, 5]
 
-💬 Preguntame **Node.js, React o cualquier cosa de [aqui](https://github.com/lupi5440/lupi5440/issues)**
+ 💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** [cite: 1, 5]
 
-⚡ Datos personales mias:  **Amo los chihuahuas 🐶**
+ ⚡ Fun fact: **I love deep-diving into technology foundations and I'm a Chihuahua enthusiast 🐶** [cite: 2]
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:ghost_fire_heart@hotmail.com">
+  <a href="mailto:juanangelserranoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/juan-angel-serrano-carre%C3%B1o-35664b255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/lupi5440" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
  <hr/>
  
-<h2 align="center">⚒️ Tecnologias que he manejado ⚒️</h2>
+<h2 align="center">⚒️ Technical Stack ⚒️</h2>
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb,vscode,html,css" /><br>
 </div>
 
 <br/>
 
 <hr/>
 <div align="center">
-  <h2>🐍 Mis contribuciones 🐍</h2>
+  <h2>🐍 Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lupi5440/lupi5440/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 <hr/>
 
-<h2 align="center">⚡ Estadistica ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br><br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Lupi5440&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
@@ -64,5 +64,5 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hasta+luego!+👋;+Hasta+la+proxima+mundo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=See+you+around!+👋;+Keep+coding!;" />
 </h1>
