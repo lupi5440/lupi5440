@@ -16,8 +16,7 @@
 
  💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** 
 
- ⚡ Fun fact: **I love deep-diving into technology foundations and I'm a Chihuahua enthusiast 🐶** [cite: 2]
-
+ ⚡ Fun fact: **I love deep-diving into technology foundations and I'm a Chihuahua enthusiast 🐶** 
  </div>
  
 <div align="center"> 
