@@ -12,7 +12,7 @@
  
  🔭 Currently developing **Scalable Systems and Algorithmic Solutions** 
  
- 🌱 Learning **Frontend frameworks and IA/Datacience topics** 
+ 🌱 Learning **Frontend frameworks and AI/Data Science topics** 
 
  💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** 
 
@@ -23,6 +23,9 @@
   <a href="mailto:juanangelserranoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://www.linkedin.com/in/juan-angel-serrano-carre%C3%B1o-35664b255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
  <hr/>
  
@@ -30,8 +33,9 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,php" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb,vscode,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,php,nodejs,bash" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=proxmox,docker,git,linux,mysql,mongodb,redis,github,vscode" />
 </div>
 
 <br/>
