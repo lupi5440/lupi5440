@@ -12,7 +12,7 @@
  
  🔭 Currently developing **Scalable Systems and Algorithmic Solutions** 
  
- 🌱 Learning **Docker, AWS, and Cloud Infrastructure** 
+ 🌱 Learning **Frontend framework and IA/Datascience topics** 
 
  💬 Ask me about **Algorithms, C++, Python or Systems Efficiency** 
 
